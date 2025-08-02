@@ -83,7 +83,3 @@ The research paper will be added here once published.
 **Ezzudin Tomizi**
 For research questions, collaborations, or conference inquiries, please contact:
 📧 *[ezzudintomizi@gmail.com](mailto:ezzudintomizi@gmail.com)*
-
----
-
-Let me know if you want to include diagrams (e.g., DDT visualization), benchmarking data, or make this conference-paper-ready as a supplementary material package (`appendix`, `figures`, etc.).
