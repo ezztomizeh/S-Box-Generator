@@ -1,7 +1,3 @@
-Here's a well-structured `README.md` suitable for a cryptographic research project being proposed at a conference:
-
----
-
 # 🔐 Genetic Algorithm for Designing S-boxes with Low MDP
 
 This repository contains the implementation of a **Genetic Algorithm (GA)** to evolve 4-bit cryptographic substitution boxes (S-boxes) with a **Maximum Differential Probability (MDP) ≤ 0.25** — a desirable property for resistance against **differential cryptanalysis**. The code is part of a larger research effort on enhancing lightweight cryptographic primitives for IoT and embedded systems, and will be presented at an upcoming cryptography/security conference.
